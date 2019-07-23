@@ -4,7 +4,7 @@ Jeux de données des administrations françaises utilisés pour le site madada.f
 
 Le fichier 
 
-Manque au moins : ministères, autorités indépendantes, EPA, EPIC, EPCI, SG, Ambassades, et Préfectures de région 
+Manque au moins : ministères, autorités indépendantes, EPA, EPIC, SG, Ambassades, et Préfectures de région 
 
 **Description :** Jeu de données créé à partir de l'annuaire de l'administration disponible sur data.gouv.fr et adapté au [format alavateli](https://alaveteli.org/docs/running/admin_manual/). 
 
