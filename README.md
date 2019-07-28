@@ -1,6 +1,6 @@
 # dada-france-autorities
 
-**Description :** Jeux de données des administrations publiques françaises et autres personnes morales pouvant faire l'objet d'une demande d'accès à un document administratif tel que défini dans l'Article L300-2 du Code des relations entre le public et l'administration. Les données ont été adaptées au [format alavateli](https://alaveteli.org/docs/running/admin_manual/) afin de pouvoir être utilisée sur le site http://madada.fr.
+**Description :** Jeux de données des administrations publiques françaises et autres personnes morales pouvant faire l'objet d'une demande d'accès à un document administratif tel que défini dans l'Article L300-2 du Code des relations entre le public et l'administration. Les données ont été adaptées au [format alavateli](https://alaveteli.org/docs/running/admin_manual/) afin de pouvoir être utilisée sur le site http://madada.fr. **À ce jour (28 Juillet 2019) le jeu de données contient 61052 administrations dont 51123 ont une adresse email renseignée.**
 
 **Licence :** Licence Ouverte
 
