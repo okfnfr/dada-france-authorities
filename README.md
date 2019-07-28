@@ -10,9 +10,31 @@
 
 **Source :** Les données proviennent essentiellement de l'annuaire de l'administration https://lannuaire.service-public.fr/themes. Les données des administrations publiques locales sont disponibles sur data.gouv.fr https://www.data.gouv.fr/fr/datasets/service-public-fr-annuaire-de-l-administration-base-de-donnees-locales/#_
 
-## tag_string
+## Description des colonnes
 
-Les administrations sont classées suivant les thèmes et catégories utilisées par l'annuaire de l'administration.
+### #id
+
+Numéro d'identifiant unique de l'administration fournit par l'annuaire des administrations publiques disponible sur le site https://lannuaire.service-public.fr.
+
+###	name	
+
+Nom de l'administration et son acronyme entre parenthèses.
+
+### request_email	
+
+Email de contact pour la demande d'accès.
+
+### notes
+
+Informations additionnelles, notamment l'adresse, et le téléphone.
+
+### home_page	
+
+Url du site web de l'administration ou de sa page sur le site https://lannuaire.service-public.fr
+
+### tag_string
+
+Mots clés séparès par un espace permettant de filtrer les administrations. Les administrations sont classées suivant les thèmes de niveau 2 utilisées par l'annuaire de l'administration sur le site https://lannuaire.service-public.fr/themes. Voir ci-dessous pour détail des thèmes et mots clés associés.
 
 ### Administration nationale  
 
