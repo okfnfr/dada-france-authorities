@@ -10,11 +10,11 @@
 
 **Source :** Les données proviennent essentiellement de l'annuaire de l'administration https://lannuaire.service-public.fr/themes. Les données des administrations publiques locales sont disponibles sur data.gouv.fr https://www.data.gouv.fr/fr/datasets/service-public-fr-annuaire-de-l-administration-base-de-donnees-locales/#_
 
-# Catégories
+## tag_string
 
 Les administrations sont classées suivant les thèmes et catégories utilisées par l'annuaire de l'administration.
 
-## Administration nationale  
+### Administration nationale  
 
   `administration-nationale`  
 
@@ -23,7 +23,7 @@ Autorités indépendantes : `autorite-administrative-independante` ou `autorite-
 Institutions et juridictions : `institution` ou `juridiction`   
 Ministères : `ministere`   
 
-## Administration locale  
+### Administration locale  
 
   `administration-locale`  
 
@@ -39,9 +39,9 @@ Préfecture de police de Paris, antenne d'arrondissement : `paris_ppp_antenne`
 Préfecture de région : `prefecture_region`   
 Sous-préfecture : `sous_pref`   
 
-  ## Social, santé  
+### Social, santé  
 
-      social-sante  
+`social-sante`  
 
 Agence régionale de santé (ARS) : `ars`   
 Agence régionale de santé (ARS) - Délégation départementale : `ars_antenne`   
@@ -63,9 +63,9 @@ Point d'information local pour les personnes âgées : `clic`
 Point info famille : `pif`   
 Union de recouvrement des cotisations de sécurité sociale et d’allocations familiales (URSSAF) : `urssaf`   
 
-  ## Travail, emploi, formation  
+### Travail, emploi, formation  
 
-      travail-emploi-formation  
+`travail-emploi-formation`  
 
 Agence nationale pour la formation professionnelle des adultes (Afpa) : `afpa`   
 Association pour l'emploi des cadres (Apec) : `apec`   
@@ -79,9 +79,9 @@ Maison de services au public : `msap`
 Mission locale (pour les 16-25 ans) : `mission_locale`   
 Pôle emploi : `pole_emploi`   
 
-  ## Économie, finances, consommation  
+### Économie, finances, consommation  
 
-      economie-finances-consommation  
+`economie-finances-consommation`  
 
 Banque de France (succursale) : `banque_de_france`   
 Bureau de douane : `bureau_de_douane`   
@@ -107,9 +107,9 @@ Service des impôts des entreprises (SIE) : `sie`
 Service des impôts des particuliers (SIP) : `sip`   
 Trésorerie : `tresorerie`   
 
-  ## Enseignement, recherche  
+### Enseignement, recherche  
 
-      enseignement-recherche  
+`enseignement-recherche`  
 
 Centre d'information et d’orientation (CIO) : `cio`   
 Centre de ressources, d'expertise et de performances sportives (CREPS) : `creps`   
@@ -124,9 +124,9 @@ Réseau Canopé - atelier départemental : `canope_atelier`
 Réseau Canopé - direction territoriale : `canope_dt`   
 Service universitaire d'information et d'orientation (SUIO) : `suio`   
 
-  ## Environnement, logement, transports  
+### Environnement, logement, transports  
 
-      environnement-logement-transports  
+`environnement-logement-transports`
 
 Agence de l’environnement et de la maîtrise de l’énergie (ADEME) : `ademe`   
 Agence départementale d'information sur le logement (ADIL) : `adil`   
@@ -151,9 +151,9 @@ Office national des forêts (ONF) - direction territoriale : `onf`
 Société d'aménagement foncier et d'établissement rural (SAFER) : `safer`   
 Voies navigables de France (VNF) : `service_navigation`   
 
-  ## Sécurité, défense  
+### Sécurité, défense  
 
-      securite-defense  
+`securite-defense`  
 
 Brigade de gendarmerie : `gendarmerie`   
 Brigade motorisée de gendarmerie : `gendarmerie_moto`   
@@ -172,9 +172,9 @@ Préfecture de police des Bouches-du-Rhône : `pp_marseille`
 Secrétariat général pour l'administration du ministère de l'Intérieur (SGAMI) : `sgami`   
 Service départemental d'incendie et de secours (SDIS) : `sdis`   
 
-  ## Droit, justice  
+### Droit, justice  
 
-      droit-justice  
+`droit-justice`  
 
 Bureau d'aide aux victimes : `bav`    
 Chambre départementale des huissiers de justice : `huissiers_justice`   
@@ -207,9 +207,9 @@ Tribunal de commerce : `tribunal_commerce`
 Tribunal de grande instance (TGI) : `tgi`   
 Tribunal pour enfants : `te`   
 
-  ## Associations, cultures, jeunesse  
+### Associations, cultures, jeunesse  
 
-      associations-culture-jeunesse  
+`associations-culture-jeunesse`
 
 Archives départementales : `ad`   
 Bibliothèque départementale de prêt : `bibli`   
