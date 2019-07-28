@@ -20,7 +20,7 @@ Les administrations sont classées suivant les thèmes et catégories utilisées
 
  `administration-nationale` 
 
-Ambassades de France : `ambassade` 
+ Ambassades de France : `ambassade` 
 Autorités indépendantes : `autorite-administrative-independante` ou `autorite-publique-independante` 
 Institutions et juridictions : `institution` ou `juridiction` 
 Ministères : `ministere` 
@@ -29,7 +29,7 @@ Ministères : `ministere`
 
  `administration-locale` 
 
-Centre de gestion de la fonction publique territoriale (CDG) : `cdg` 
+ Centre de gestion de la fonction publique territoriale (CDG) : `cdg` 
 Centre national de la fonction publique territoriale (CNFPT) - Antenne départementale : `cnfpt` 
 Conseil départemental : `cg` 
 Conseil économique, social et environnemental régional (CESER) : `cesr` 
@@ -45,7 +45,7 @@ Sous-préfecture : `sous_pref`
 
      social-sante 
 
-Agence régionale de santé (ARS) : `ars` 
+ Agence régionale de santé (ARS) : `ars` 
 Agence régionale de santé (ARS) - Délégation départementale : `ars_antenne` 
 Association de gestion du fonds pour l'insertion professionnelle des personnes handicapées (AGEFIPH) : `agefiph` 
 Caisse d'allocations familiales (CAF) : `caf` 
@@ -69,7 +69,7 @@ Union de recouvrement des cotisations de sécurité sociale et d’allocations f
 
      travail-emploi-formation 
 
-Agence nationale pour la formation professionnelle des adultes (Afpa) : `afpa` 
+ Agence nationale pour la formation professionnelle des adultes (Afpa) : `afpa` 
 Association pour l'emploi des cadres (Apec) : `apec` 
 Association pour l'emploi des cadres, ingénieurs et techniciens de l'agriculture et de l'agroalimentaire (Apecita) : `apecita` 
 Cap emploi : `cap_emploi` 
@@ -85,7 +85,7 @@ Pôle emploi : `pole_emploi`
 
      economie-finances-consommation 
 
-Banque de France (succursale) : `banque_de_france` 
+ Banque de France (succursale) : `banque_de_france` 
 Bureau de douane : `bureau_de_douane` 
 Cadastre : `cadastre` 
 Centre des impôts foncier : `centre_impots_fonciers` 
@@ -113,7 +113,7 @@ Trésorerie : `tresorerie`
 
      enseignement-recherche 
 
-Centre d'information et d’orientation (CIO) : `cio` 
+ Centre d'information et d’orientation (CIO) : `cio` 
 Centre de ressources, d'expertise et de performances sportives (CREPS) : `creps` 
 Centre régional des œuvres universitaires et scolaires (CROUS) : `crous` 
 Délégation régionale à la recherche et à la technologie : `drrt` 
@@ -130,7 +130,7 @@ Service universitaire d'information et d'orientation (SUIO) : `suio`
 
      environnement-logement-transports 
 
-Agence de l’environnement et de la maîtrise de l’énergie (ADEME) : `ademe` 
+  Agence de l’environnement et de la maîtrise de l’énergie (ADEME) : `ademe` 
 Agence départementale d'information sur le logement (ADIL) : `adil` 
 Agence nationale de l’habitat (ANAH) - réseau local : `anah` 
 Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et l'aménagement (CEREMA) - direction territoriale : `cerema` 
@@ -157,7 +157,7 @@ Voies navigables de France (VNF) : `service_navigation`
 
      securite-defense 
 
-Brigade de gendarmerie : `gendarmerie` 
+ Brigade de gendarmerie : `gendarmerie` 
 Brigade motorisée de gendarmerie : `gendarmerie_moto` 
 Centre d'information et de recrutement (CIR) de la gendarmerie nationale : `cirgn` 
 Centre d'information et de recrutement des forces armées (CIRFA) : `cirfa` 
@@ -178,7 +178,7 @@ Service départemental d'incendie et de secours (SDIS) : `sdis`
 
      droit-justice 
 
-Bureau d'aide aux victimes : `bav` 
+ Bureau d'aide aux victimes : `bav` 
 Chambre départementale des huissiers de justice : `huissiers_justice` 
 Chambre départementale des notaires : `chambre_notaires` 
 Commission d'indemnisation des victimes d'infraction (Civi) : `civi` 
@@ -213,7 +213,7 @@ Tribunal pour enfants : `te`
 
      associations-culture-jeunesse 
 
-Archives départementales : `ad` 
+ Archives départementales : `ad` 
 Bibliothèque départementale de prêt : `bibli` 
 Centre de ressources et d'information des bénévoles (Crib) : `crib` 
 Conseil d'architecture, d'urbanisme et de l'environnement (CAUE) : `caue` 
@@ -227,8 +227,3 @@ Greffe des associations : `prefecture_greffe_associations`
 Information jeunesse (réseau local) : `cij` 
 Mission d'accueil et d'information des associations (MAIA) : `maia` 
 Unité départementale de l'architecture et du patrimoine (UDAP) : `sdac` 
-
-
-
-
-
