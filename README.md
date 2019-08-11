@@ -1,6 +1,6 @@
 # dada-france-autorities
 
-**Description :** Jeux de données des administrations publiques françaises et autres personnes morales pouvant faire l'objet d'une demande d'accès à un document administratif tel que défini dans l'Article L300-2 du Code des relations entre le public et l'administration. Les données ont été adaptées au [format alavateli](https://alaveteli.org/docs/running/admin_manual/) afin de pouvoir être utilisée sur le site http://madada.fr. **À ce jour (28 Juillet 2019) le jeu de données contient 61052 administrations dont 51123 ont une adresse email renseignée.**
+**Description :** Jeux de données des administrations publiques françaises et autres personnes morales pouvant faire l'objet d'une demande d'accès à un document administratif tel que défini dans l'Article L300-2 du Code des relations entre le public et l'administration. Les données ont été adaptées au [format alavateli](https://alaveteli.org/docs/running/admin_manual/) afin de pouvoir être utilisée sur le site http://madada.fr. **À ce jour (11 Août 2019) le jeu de données contient 61536 administrations et opérateurs de l'État dont 51123 ont une adresse email renseignée.**
 
 **Licence :** Licence Ouverte
 
@@ -8,7 +8,7 @@
 
 **Auteur :** Pierre Chrzanowski
 
-**Source :** Les données proviennent essentiellement de l'annuaire de l'administration https://lannuaire.service-public.fr/themes. Les données des administrations publiques locales sont disponibles sur data.gouv.fr https://www.data.gouv.fr/fr/datasets/service-public-fr-annuaire-de-l-administration-base-de-donnees-locales/#_
+**Source :** La liste des administrations provient de l'annuaire de l'administration https://lannuaire.service-public.fr/themes. Les données des administrations publiques locales sont disponibles sur data.gouv.fr https://www.data.gouv.fr/fr/datasets/service-public-fr-annuaire-de-l-administration-base-de-donnees-locales/#_. Les données des opérateurs de l'État proviennent du Ministère de l'Économie et des Finances et sont disponibles sur data.gouv.fr https://www.data.gouv.fr/fr/datasets/projet-de-loi-de-finances-pour-2019-plf-2019-annexe-budget-des-operateurs-de-letat-pour-2018/
 
 ## Description des colonnes
 
