@@ -250,13 +250,15 @@ Unité départementale de l'architecture et du patrimoine (UDAP) : `sdac`
 
 ### Opérateurs de l'État
 
-Association : `association`
-Établissement public à caractère industriel et commercial : `epic`
-Établissement publi à caractère administratif : `epa`
-Établissements publics à caractère scientifique, culturel et professionnel : `epscp`
-Établissement public à caractère scientifique et technologique : `epst`
-Groupement d'intérêt général : `gie`
-Groupement d'intérêt public : `gip`
-Fondation : `fondation`
-Sui generis : `sui-generis`
+`associations-culture-jeunesse`
+
+Association : `association`  
+Établissement public à caractère industriel et commercial : `epic`  
+Établissement publi à caractère administratif : `epa`  
+Établissements publics à caractère scientifique, culturel et professionnel : `epscp`  
+Établissement public à caractère scientifique et technologique : `epst`  
+Groupement d'intérêt général : `gie`  
+Groupement d'intérêt public : `gip`  
+Fondation : `fondation`  
+Sui generis : `sui-generis`  
 
