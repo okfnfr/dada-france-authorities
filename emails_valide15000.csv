@@ -1110,7 +1110,7 @@ mairie-27400-01,Mairie - Merey,commune.merey@orange.fr,"Adresse : 9 rue de Pacy,
 mairie-27401-01,Mairie - Le Mesnil-Fuguet,mairielemesnilfuguet@wanadoo.fr,"Adresse : 12 rue de la Mairie, 27930, Le Mesnil-Fuguet | Tél : 02 32 34 85 43 | Fax : ",,mairie
 mairie-27403-01,Mairie - Le Mesnil-Jourdain,mairie-mesniljourdain@wanadoo.fr,"Adresse : 14 rue de Cavoville, 27400, Le Mesnil-Jourdain | Tél : 02 32 50 55 22 | Fax : 02 32 50 55 22",,mairie
 mairie-27404-01,Mairie - Mesnil-Rousset,mairie.mesnil.rousset27@wanadoo.fr,"Adresse : 40 route de la Petite-Haye, 27390, Mesnil-Rousset | Tél : 02 32 43 31 37 | Fax : ",,mairie
-mairie-27405-01,Mairie - Mesnil-sous-Vienne,mairie.mesnil.sous.vienne.@orange.fr,"Adresse : Place de la Mairie, 27150, Mesnil-sous-Vienne | Tél : 02 32 55 59 49 | Fax : ",,mairie
+mairie-27405-01,Mairie - Mesnil-sous-Vienne,mairie.mesnil.sous.vienne@orange.fr,"Adresse : Place de la Mairie, 27150, Mesnil-sous-Vienne | Tél : 02 32 55 59 49 | Fax : ",,mairie
 mairie-27406-01,Mairie - Mesnil-sur-l'Estrée,mairie@mesnillestree.fr,"Adresse : 15 Grande rue, 27650, Mesnil-sur-l'Estrée | Tél : 02 37 64 90 00 | Fax : 02 37 64 90 01",http://www.mesnil-sur-lestree.fr,mairie
 mairie-27407-01,Mairie - Mesnil-Verclives,mairie-mesnil-verclives@wanadoo.fr,"Adresse : Place de l'Église, 27440, Mesnil-Verclives | Tél : 02 32 69 40 04 | Fax : ",,mairie
 mairie-27408-01,Mairie - Mézières-en-Vexin,mmezieres@wanadoo.fr,"Adresse : 1 rue des Huit-Acres, 27510, Mézières-en-Vexin | Tél : 02 32 52 30 03 | Fax : 02 32 52 30 03",,mairie
@@ -1294,7 +1294,7 @@ mairie-27640-01,Mairie - Tilleul-Dame-Agnès,mairie.tilleuldameagnes@wanadoo.fr,
 mairie-27641-01,Mairie - Le Tilleul-Lambert,mairie.le.tilleul.lambert@wanadoo.fr,"Adresse : Le Bourg, 27110, Le Tilleul-Lambert | Tél : 02 32 35 49 44 | Fax : ",,mairie
 mairie-27643-01,Mairie - Tillières-sur-Avre,mairie.de.tillieres@wanadoo.fr,"Adresse : 29 rue de Paris, 27570, Tillières-sur-Avre | Tél : 02 32 32 50 50 | Fax : ",,mairie
 mairie-27646-01,Mairie - Le Torpt,mairie.letorpt@orange.fr,"Adresse : 1 place de la Mairie, 27210, Le Torpt | Tél : 02 32 57 75 14 | Fax : 02 32 57 72 41",,mairie
-mairie-27649-01,Mairie - Touffreville,touffreville27@gmail.com,"Adresse : 49 Grande rue, 27440, Touffreville | Tél : 02 32 49 35 89 | Fax : ",,mairie
+mairie-27649-01,Mairie - Touffreville (27440),touffreville27@gmail.com,"Adresse : 49 Grande rue, 27440, Touffreville | Tél : 02 32 49 35 89 | Fax : ",,mairie
 mairie-27650-01,Mairie - Tournedos-Bois-Hubert,mairietbh@orange.fr,"Adresse : Rue de la Gendarmerie, 27180, Tournedos-Bois-Hubert | Tél : 02 32 34 94 16 | Fax : ",,mairie
 mairie-27652-01,Mairie - Tourneville,mairie-de-tourneville@wanadoo.fr,"Adresse : Route de la Vallée, 27930, Tourneville | Tél : 02 32 34 31 33 | Fax : ",,mairie
 mairie-27654-01,Mairie - Tourville-la-Campagne,mairie.tourvillelacampagne@orange.fr,"Adresse : 23 rue Madeleine-Fosse, 27370, Tourville-la-Campagne | Tél : 02 32 35 38 98 | Fax : 02 32 34 80 51",http://www.tourvillelacampagne.fr,mairie
@@ -3331,7 +3331,6 @@ gendarmerie-31433-01,Brigade de gendarmerie - Portet-sur-Garonne,bp.ramonville-s
 gendarmerie-31503-01,Brigade de gendarmerie - Saint-Martory,bp.st-orens-de-gameville@gendarmerie.interieur.gouv.fr,"Adresse : 26 Avenue des Epoux St-Martin-Latrille, 31360,Saint-Martory | Tél : 05 61 90 23 17 | Fax : 05 61 90 82 52",http://www.gendarmerie.interieur.gouv.fr,gendarmerie
 gendarmerie-31588-01,Brigade de gendarmerie - Villeneuve-Tolosane,cob.cugnaux@gendarmerie.interieur.gouv.fr,"Adresse : 2 Rue de l'Hôtel de ville, 31270,Villeneuve-Tolosane | Tél : 05 62 87 10 60 | Fax : 05 62 87 10 68",http://www.gendarmerie.interieur.gouv.fr,gendarmerie
 greta-31555-02,Greta - Midi-Pyrénées - Centre,accueil.toulouse@mongreta.fr,"Adresse : Lycée technologique Déodat-de-Séverac - 26 boulevard Déodat-de-Séverac - BP 40164, 31025,Toulouse Cedex 3 | Tél : 05 61 77 26 77 | Fax : 05 61 59 57 24",http://maforpro.ac-toulouse.fr,greta
-greta-31555-03,Greta - Midi-Pyrénées Centre,accueil.toulouse@mongreta.fr,"Adresse : 26 boulevard Déodat-de-Séverac - BP 97612, 31076,Toulouse Cedex 3 | Tél : 05 61 77 26 77 | Fax : 05 61 59 57 24",http://maforpro.ac-toulouse.fr,greta
 hypotheque-31395-01,Service de la publicité foncière (SPF) - Muret,spf.muret@dgfip.finances.gouv.fr,"Adresse : 159 avenue Jacques-Douzans - BP 80111, 31604,Muret Cedex | Tél : 05 62 23 12 60 | Fax : ",http://www.impots.gouv.fr,hypotheque
 hypotheque-31483-01,Service de la publicité foncière (SPF) - Saint-Gaudens,spf.saint-gaudens@dgfip.finances.gouv.fr,"Adresse : Place du Pilat - BP 010042, 31801,Saint-Gaudens Cedex | Tél : 05 61 94 66 23 | Fax : ",http://www.impots.gouv.fr,hypotheque
 hypotheque-31555-01,Service de la publicité foncière (SPF) - Toulouse 1,spf.toulouse1@dgfip.finances.gouv.fr,"Adresse : 34 rue des Lois, 31039,Toulouse Cedex 9 | Tél : 05 61 10 67 67 | Fax : ",http://www.impots.gouv.fr,hypotheque

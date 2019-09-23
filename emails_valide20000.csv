@@ -35,7 +35,6 @@ msap-33195-01,Maison de services au public - Grignols,msap.grignols@laposte.fr,"
 msap-33316-01,Maison de services au public - Pellegrue,rsp-pellegrue@paysfoyen.fr,"Adresse : 7 place du 8-Mai-01945,33790,Pellegrue | Tél : 05 56 61 30 18 | Fax : ",https://www.maisondeservicesaupublic.fr/content/pays-foyen-antenne-de-pellegrue,msap
 msap-33336-01,Maison de services au public - Préchac,msap.prechac@laposte.fr,"Adresse : Bureau de poste - 3 rue de la Victoire,33730,Préchac | Tél : | Fax : ",https://www.maisondeservicesaupublic.fr/content/prechac-bureau-de-poste,msap
 msap-33350-01,Maison de services au public - Rauzan,msap.rauzan@laposte.fr,"Adresse : Bureau de poste - 11 Grande rue,33420,Rauzan | Tél : | Fax : ",https://www.maisondeservicesaupublic.fr/content/rauzan-bureau-de-poste,msap
-msap-33402-01,Maison de services au public - Sainte-Foy-la-Grande,msap-stefoy@paysfoyen.fr,"Adresse : 12 boulevard Charles-Garrau,33220,Sainte-Foy-la-Grande | Tél : 05 57 48 60 90 | Fax : ",https://www.maisondeservicesaupublic.fr/content/pays-foyen-site-de-sainte-foy-la-grande,msap
 msap-33484-01,Maison de services au public - Saint-Symphorien,commune.de.saint-symphorien@wanadoo.fr,"Adresse : 15 place de la République,33113,Saint-Symphorien | Tél : 05 56 65 01 10 | Fax : ",https://www.maisondeservicesaupublic.fr/content/saint-symphorien,msap
 msap-33490-01,Maison de services au public - Saint-Vivien-de-Médoc,msap.saint-vivien-de-medoc@laposte.fr,"Adresse : Bureau de poste - 1 rue Georges-Mandel,33590,Saint-Vivien-de-Médoc | Tél : | Fax : ",https://www.maisondeservicesaupublic.fr/content/saint-vivien-de-medoc-bureau-de-poste,msap
 msap-33506-01,Maison de services au public - Sauveterre-de-Guyenne,msap@cdc-entre2mers.fr,"Adresse : 4-6 rue des Martyrs-de-la-Résistance-et-de-la-Déportation,33540,Sauveterre-de-Guyenne | Tél : 05 56 71 81 76 | Fax : ",https://www.maisondeservicesaupublic.fr/content/sauveterre-de-guyenne,msap
@@ -638,7 +637,7 @@ apecita-35238-01,"Association pour l'emploi des cadres, ingénieurs et technicie
 bsn-35238-01,"Centre du service national - Rennes (pour les départements 44, 35, 53)",csn-rennes.sec.fct@intradef.gouv.fr,"Adresse : Quartier Foch - BP 21,35998,Rennes Cedex 9 | Tél : 02 23 44 50 01 | Fax : ",http://www.defense.gouv.frjdc,bsn
 bureau_de_douane-35238-01,Bureau de douane - Rennes,crd-rennes@douane.finances.gouv.fr,"Adresse : 8 cours des Alliés - BP 40433,35004,Rennes Cedex | Tél : 09 70 27 51 39 | Fax : 02 99 31 89 64",http://www.douane.gouv.fr,bureau_de_douane
 bureau_de_douane-35288-01,Bureau de douane - Saint-Malo,crd-saint-malo@douane.finances.gouv.fr,"Adresse : CS 601821 - Fort du Naye,35418,Saint-Malo | Tél : 09 70 27 51 50 | Fax : 02 99 82 10 45",http://www.douane.gouv.fr,bureau_de_douane
-cci-35115-01,Chambre de commerce et d'industrie (CCI) - Ille-et-vilaine,javene-delegationdesmarchesdebretagne@ille-et-vilaine.cci.fr,"Adresse : Délégation des Marches-de-Bretagne - Parc d'activités de la Grande-Marche - 4 rue Claude-Bourgelat - CS 80612,35306,Fougères Cedex | Tél : 02 99 94 75 75 | Fax : 02 99 94 41 20",http://www.ille-et-vilaine.cci.fr,cci
+cci-35115-01,Chambre de commerce et d'industrie (CCI) - Ille-et-Vilaine - Délégation des Marches-de-Bretagne,javene-delegationdesmarchesdebretagne@ille-et-vilaine.cci.fr,"Adresse : Délégation des Marches-de-Bretagne - Parc d'activités de la Grande-Marche - 4 rue Claude-Bourgelat - CS 80612,35306,Fougères Cedex | Tél : 02 99 94 75 75 | Fax : 02 99 94 41 20",http://www.ille-et-vilaine.cci.fr,cci
 cci-35238-01,Chambre de commerce et d'industrie (CCI) - Ille-et-Vilaine,infoplus@ille-et-vilaine.cci.fr,"Adresse : 2 avenue de la Préfecture - CS 64204,35042,Rennes Cedex | Tél : 02 99 33 66 66 | Fax : 02 99 33 24 28",http://www.ille-et-vilaine.cci.fr,cci
 cci-35288-01,Chambre de commerce et d'industrie (CCI) - Ille et Vilaine - délégation de Saint-Malo,contact@saintmalofougeres.cci.fr,"Adresse : 4 avenue Louis-Martin - CS 601714,35417,Saint-Malo Cedex | Tél : 02 99 20 63 00 | Fax : 02 99 56 61 48",http://www.saintmalofougeres.cci.fr,cci
 cdg-35334-01,Centre de gestion de la fonction publique territoriale - Ille-et-Vilaine,contact@cdg35.fr,"Adresse : Village des collectivités territoriales - 1 avenue de Tizé - CS 013600,35236,Thorigné-Fouillard Cedex | Tél : 02 99 23 31 00 | Fax : 02 99 23 38 00",http://www.cdg35.fr,cdg
@@ -805,7 +804,7 @@ mairie-35082-01,Mairie - Coësmes,mairiecoesmes@wanadoo.fr,"Adresse : 14 Haute r
 mairie-35084-01,Mairie - Comblessac,mairie.comblessac@wanadoo.fr,"Adresse : 1 place de la Mairie,35330,Comblessac | Tél : 02 99 34 96 09 | Fax : ",http://comblessac.com,mairie
 mairie-35085-01,Mairie - Combourg,mairie@combourg.com,"Adresse : Rue de la Mairie - BP 42,35270,Combourg | Tél : 02 99 73 00 18 | Fax : 02 99 73 29 66",http://www.combourg.com,mairie
 mairie-35086-01,Mairie - Combourtillé,mairie.combourtille35@wanadoo.fr,"Adresse : Place de la Mairie,35210,Combourtillé | Tél : 02 99 97 61 50 | Fax : ",,mairie
-mairie-35087-01,Mairie - Cornillé,commune.cornille@orange.fr,"Adresse : 1 place de l'Église,35500,Cornillé | Tél : 02 99 49 52 59 | Fax : ",http://www.mairiecornille.fr,mairie
+mairie-35087-01,Mairie - Cornillé (35500),commune.cornille@orange.fr,"Adresse : 1 place de l'Église,35500,Cornillé | Tél : 02 99 49 52 59 | Fax : ",http://www.mairiecornille.fr,mairie
 mairie-35088-01,Mairie - Corps-Nuds,mairie@corps-nuds.fr,"Adresse : 31 rue des Trois-Marie,35150,Corps-Nuds | Tél : 02 99 44 00 11 | Fax : ",http://www.corps-nuds.fr,mairie
 mairie-35089-01,Mairie - La Couyère,mairielacouyere@orange.fr,"Adresse : Place de l'Église,35320,La Couyère | Tél : 02 99 43 13 93 | Fax : 02 99 44 27 08",http://www.lacouyere.fr,mairie
 mairie-35090-01,Mairie - Crevin,accueil.mairie@crevin.fr,"Adresse : 10 rue de la Mairie,35320,Crevin | Tél : 02 99 42 41 65 | Fax : 02 99 42 41 73",http://www.crevin.fr,mairie
@@ -826,7 +825,7 @@ mairie-35104-01,Mairie - Épiniac,mairie.epiniac@orange.fr,"Adresse : 10 rue de 
 mairie-35105-01,Mairie - Erbrée,mairie@erbree.fr,"Adresse : 12 rue de Bretagne,35500,Erbrée | Tél : 02 99 49 40 17 | Fax : 02 99 49 31 08",http://www.erbree.fr,mairie
 mairie-35106-01,Mairie - Ercé-en-Lamée,mairie@erceenlamee.fr,"Adresse : 2 route des Ajoncs-d'Or,35620,Ercé-en-Lamée | Tél : 02 99 44 30 16 | Fax : 02 99 43 17 87",http://www.erce-en-lamee.fr,mairie
 mairie-35107-01,Mairie - Ercé-près-Liffré,mairie@ercepresliffre.fr,"Adresse : Place de la Mairie,35340,Ercé-près-Liffré | Tél : 02 99 68 30 64 | Fax : 02 99 68 38 15",http://www.ercepresliffre.info,mairie
-mairie-35108-01,Mairie - Essé,commune.esse@orange.fr,"Adresse : 1 rue de la Seiche-Essé,35150,Essé | Tél : 02 99 47 06 01 | Fax : 02 99 47 05 58",http://www.esse-larocheauxfees.fr,mairie
+mairie-35108-01,Mairie - Essé (35150),commune.esse@orange.fr,"Adresse : 1 rue de la Seiche-Essé,35150,Essé | Tél : 02 99 47 06 01 | Fax : 02 99 47 05 58",http://www.esse-larocheauxfees.fr,mairie
 mairie-35109-01,Mairie - Étrelles,mairie.etrelles@wanadoo.fr,"Adresse : 2 rue Julien-Caillel - BP 27067,35370,Étrelles | Tél : 02 99 96 62 11 | Fax : ",http://ville-etrelles.fr,mairie
 mairie-35110-01,Mairie - Feins,feins@orange.fr,"Adresse : 2 rue des Écoles,35440,Feins | Tél : 02 99 69 70 52 | Fax : 02 99 69 66 25",http://www.feins.fr,mairie
 mairie-35111-01,Mairie - Le Ferré,mairie.le.ferre@orange.fr,"Adresse : 23 rue de Bretagne,35420,Le Ferré | Tél : 02 99 95 10 33 | Fax : 02 99 95 17 85",http://www.leferre.fr,mairie
@@ -904,8 +903,8 @@ mairie-35187-01,Mairie - Monterfil,mairie.monterfil@wanadoo.fr,"Adresse : 6 rue 
 mairie-35188-01,Mairie - Montfort-sur-Meu,accueil@montfort-sur-meu.fr,"Adresse : Boulevard Villebois-Mareuil,35160,Montfort-sur-Meu | Tél : 02 99 09 00 17 | Fax : 02 99 09 14 04",http://www.montfort-sur-meu.fr,mairie
 mairie-35189-01,Mairie - Montgermont,mairie@ville-montgermont.fr,"Adresse : Place Jane-Beusnel - BP 96606,35760,Montgermont | Tél : 02 99 68 83 88 | Fax : 02 99 68 93 32",http://www.ville-montgermont.fr,mairie
 mairie-35190-01,Mairie - Monthault,mairie.monthault@wanadoo.fr,"Adresse : 6 rue des Écoles,35420,Monthault | Tél : 02 99 98 03 47 | Fax : 02 99 98 18 02",https://monthault.fr,mairie
-mairie-35191-01,Mairie - Les Portes du Coglais,mairie@lesportesducoglais.fr,"Adresse : Montours - 1 rue Saint-Melaine,35460,Les Portes-du-Coglais | Tél : 02 99 98 63 77 | Fax : 02 99 97 79 35",http://www.montours.fr,mairie
-mairie-35191-02,Mairie - Les Portes-du-Coglais,mairie@lesportesducoglais.fr,"Adresse : Coglès - 115 rue Saint-Jean,35460,Les Portes-du-Coglais | Tél : 02 99 98 60 68 | Fax : ",,mairie
+mairie-35191-01,Mairie - Les Portes du Coglais - Montours,mairie@lesportesducoglais.fr,"Adresse : Montours - 1 rue Saint-Melaine,35460,Les Portes-du-Coglais | Tél : 02 99 98 63 77 | Fax : 02 99 97 79 35",http://www.montours.fr,mairie
+mairie-35191-02,Mairie - Les Portes-du-Coglais - Coglès,mairie@lesportesducoglais.fr,"Adresse : Coglès - 115 rue Saint-Jean,35460,Les Portes-du-Coglais | Tél : 02 99 98 60 68 | Fax : ",,mairie
 mairie-35191-03,Mairie déléguée - La Selle-en-Coglès,mairie.laselle.cogles@wanadoo.fr,"Adresse : La Selle-en-Coglès - 2 rue du Clos-aux-Moines,35460,Les Portes-du-Coglais | Tél : 02 99 98 62 02 | Fax : 02 99 18 54 50",,mairie
 mairie-35192-01,Mairie - Montreuil-des-Landes,mairie.montreuildeslandes@wanadoo.fr,"Adresse : 3 rue de Chatillon-en-Vendelais,35210,Montreuil-des-Landes | Tél : 02 99 76 07 21 | Fax : 02 99 76 13 95",,mairie
 mairie-35193-01,Mairie - Montreuil-le-Gast,mairie@montreuil-le-gast.fr,"Adresse : 3 rue de la Mairie,35520,Montreuil-le-Gast | Tél : 02 99 66 90 39 | Fax : 02 99 66 10 06",http://www.montreuil-le-gast.fr,mairie
@@ -1465,7 +1464,7 @@ epci-37250-01,Communauté de communes - Touraine Vallée de l'Indre,contact@tour
 fdapp-37261-01,Fédération départementale pour la pêche et la protection du milieu aquatique - Indre-et-Loire,fedepeche37@fedepeche37.fr,"Adresse : 178 ter rue du Pas-Notre-Dame,37100,Tours | Tél : 02 47 05 33 77 | Fax : 02 47 61 69 42",http://fedepeche37.fr,fdapp
 fdc-37261-01,Fédération départementale des chasseurs - Indre-et-Loire,fdc37@chasseurdefrance.com,"Adresse : 9 impasse Heurteloup - CS 401215,37012,Tours Cedex 1 | Tél : 02 47 05 65 25 | Fax : ",http://www.fdc37.fr,fdc
 gendarmerie-37003-01,Brigade de gendarmerie - Amboise,bta.amboise@gendarmerie.interieur.gouv.fr,"Adresse : 1 Boulevard Anatole France,37400,Amboise | Tél : 02 47 30 63 70 | Fax : 02 47 30 63 74",http://www.gendarmerie.interieur.gouv.fr,gendarmerie
-greta-37261-01,Greta - Val de Loire,contact@greta-vdl.fr,"Adresse : 6 avenue de Sévigné - CS 40411,37204,Tours Cedex 3 | Tél : 02 47 21 00 01 | Fax : 02 47 21 00 02",http://www.greta-vdl.fr,greta
+greta-37261-01,Greta - Val de Loire - Tours,contact@greta-vdl.fr,"Adresse : 6 avenue de Sévigné - CS 40411,37204,Tours Cedex 3 | Tél : 02 47 21 00 01 | Fax : 02 47 21 00 02",http://www.greta-vdl.fr,greta
 hypotheque-37072-01,Service de la publicité foncière (SPF) - Chinon,spf.chinon@dgfip.finances.gouv.fr,"Adresse : Boulevard Paul-Louis-Courier,37500,Chinon | Tél : 02 47 93 55 69 | Fax : ",http://www.impots.gouv.fr,hypotheque
 hypotheque-37132-01,Service de la publicité foncière (SPF) - Loches,spf.loches@dgfip.finances.gouv.fr,"Adresse : 12 avenue des Bas-Clos,37600,Loches | Tél : 02 47 91 16 30 | Fax : ",http://www.impots.gouv.fr,hypotheque
 hypotheque-37261-01,Service de la publicité foncière (SPF) - Tours 1,spf.tours1@dgfip.finances.gouv.fr,"Adresse : 40 rue Édouard-Vaillant,37060,Tours Cedex 09 | Tél : 02 47 21 70 91 | Fax : ",http://www.impots.gouv.fr,hypotheque
@@ -2133,7 +2132,7 @@ mairie-38289-01,Mairie - Oz-en-Oisans,mairie.oz@wanadoo.fr,"Adresse : Le Village
 mairie-38290-01,Mairie - Pact,mairie.pact@territoire-de-beaurepaire.fr,"Adresse : 274 Grande rue,38270,Pact | Tél : 04 74 84 87 60 | Fax : ",http://www.mairie-pact.fr,mairie
 mairie-38291-01,Mairie - Pajay,mairie.pajay@wanadoo.fr,"Adresse : 15 place du 19-Mars-01962,38260,Pajay | Tél : 04 74 54 26 03 | Fax : ",http://www.pajay.fr,mairie
 mairie-38292-01,Mairie - Villages du Lac de Paladru,mairie-de-paladru@wanadoo.fr,"Adresse : Paladru - 306 rue de la Morgerie,38850,Villages du Lac de Paladru | Tél : 04 76 32 30 53 | Fax : 04 76 32 42 02",http://www.paladru.com,mairie
-mairie-38292-02,Mairie - Villages-du-Lac-de-Paladru,mairie.du.pin@wanadoo.fr,"Adresse : Le Pin - 155 route de Virieu,38730,Villages-du-Lac-de-Paladru | Tél : 04 76 06 63 14 | Fax : 04 76 55 72 21",http://www.mairie-lepin.fr,mairie
+mairie-38292-02,Mairie - Villages-du-Lac-de-Paladru - Le Pin,mairie.du.pin@wanadoo.fr,"Adresse : Le Pin - 155 route de Virieu,38730,Villages-du-Lac-de-Paladru | Tél : 04 76 06 63 14 | Fax : 04 76 55 72 21",http://www.mairie-lepin.fr,mairie
 mairie-38293-01,Mairie - Panissage,mairie.panissage@orange.fr,"Adresse : 255 rue de la Mairie,38730,Panissage | Tél : 04 74 88 26 28 | Fax : ",,mairie
 mairie-38294-01,Mairie - Panossas,contact@panossas.fr,"Adresse : 91 chemin des Fuziers,38460,Panossas | Tél : 04 74 90 20 08 | Fax : ",http://www.panossas.fr,mairie
 mairie-38295-01,Mairie - Parmilieu,mairie.parmilieu@wanadoo.fr,"Adresse : 6 place de la Mairie,38390,Parmilieu | Tél : 04 74 90 62 84 | Fax : 04 74 90 68 13",http://www.parmilieu.fr,mairie
@@ -2196,7 +2195,7 @@ mairie-38367-01,Mairie - Saint-Bernard-du-Touvet,mairie@saintbernarddutouvet.fr,
 mairie-38368-01,Mairie - Saint-Blaise-du-Buis,m.stblaise@wanadoo.fr,"Adresse : 305 rue de la Mairie,38140,Saint-Blaise-du-Buis | Tél : 04 76 65 65 00 | Fax : 04 76 05 39 62",http://www.saintblaisedubuis.fr,mairie
 mairie-38370-01,Mairie - Saint-Bonnet-de-Chavagne,mairie.st.bonnet.chavagne@wanadoo.fr,"Adresse : 50 rue du Marquis-de-la-Porte,38840,Saint-Bonnet-de-Chavagne | Tél : 04 76 38 50 68 | Fax : 04 76 38 11 43",http://www.saint-bonnet-de-chavagne.fr,mairie
 mairie-38372-01,Mairie - Saint-Bueil,mairiedestbueil@orange.fr,"Adresse : 555 route du Bourg,38620,Saint-Bueil | Tél : 04 76 07 54 07 | Fax : ",,mairie
-mairie-38373-01,Mairie - Saint Cassien,mairie@saint-cassien.fr,"Adresse : 9 route de Chartreuse,38500,Saint-Cassien | Tél : 04 76 05 19 86 | Fax : 04 76 91 81 31",http://www.saint-cassien.fr,mairie
+mairie-38373-01,Mairie - Saint Cassien (38500),mairie@saint-cassien.fr,"Adresse : 9 route de Chartreuse,38500,Saint-Cassien | Tél : 04 76 05 19 86 | Fax : 04 76 91 81 31",http://www.saint-cassien.fr,mairie
 mairie-38374-01,Mairie - Saint-Chef,mairie@saint-chef.fr,"Adresse : 1 place de la Mairie,38890,Saint-Chef | Tél : 04 74 92 42 48 | Fax : 04 74 92 44 98",http://www.saint-chef.fr,mairie
 mairie-38375-01,Mairie - Saint-Christophe-en-Oisans,mairie@saint-christophe-en-oisans.fr,"Adresse : La Ville,38520,Saint-Christophe-en-Oisans | Tél : 04 76 79 53 50 | Fax : ",https://www.mairie-st-christophe-en-oisans.fr/,mairie
 mairie-38376-01,Mairie - Saint-Christophe-sur-Guiers,mairiest-christopheguiers@wanadoo.fr,"Adresse : 8 place de la Mairie,38380,Saint-Christophe-sur-Guiers | Tél : 04 76 66 00 42 | Fax : 04 76 66 09 20",https://mairiestchristophe.wixsite.com/stchristopheguiers,mairie
@@ -2830,7 +2829,7 @@ mairie-39406-01,Mairie - Le Pasquier,mairie.lepasquier@wanadoo.fr,"Adresse : 6 G
 mairie-39407-01,Mairie - Passenans,mairie.passenans@sfr.fr,"Adresse : 65 rue de l'Asile,39230,Passenans | Tél : 03 84 85 24 03 | Fax : ",http://passenansmairie.jimdo.com,mairie
 mairie-39408-01,Mairie - Patornay,mairie.patornay@orange.fr,"Adresse : 2 rue de la Mairie,39130,Patornay | Tél : 03 84 48 34 13 | Fax : ",,mairie
 mairie-39409-01,Mairie - Peintre,mairiepeintre@wanadoo.fr,"Adresse : 1 rue du Lavoir,39290,Peintre | Tél : 03 84 70 27 37 | Fax : ",,mairie
-mairie-39412-01,Mairie - Peseux,mairie-peseux@wanadoo.fr,"Adresse : 2 route de Chaussin,39120,Peseux | Tél : 03 84 70 07 64 | Fax : ",,mairie
+mairie-39412-01,Mairie - Peseux (39120),mairie-peseux@wanadoo.fr,"Adresse : 2 route de Chaussin,39120,Peseux | Tél : 03 84 70 07 64 | Fax : ",,mairie
 mairie-39413-01,Mairie - La Pesse,mairie-la-pesse@wanadoo.fr,"Adresse : 5 rue de l'Épicéa,39370,La Pesse | Tél : 03 84 42 70 83 | Fax : ",http://www.mairie-la-pesse.com,mairie
 mairie-39414-01,Mairie - Le Petit-Mercey,mairiepetitmercey@orange.fr,"Adresse : 5 rue des Vergers,39350,Le Petit-Mercey | Tél : 03 84 70 91 78 | Fax : 03 84 70 91 78",http://www.lepetitmercey.com,mairie
 mairie-39415-01,Mairie - Petit-Noir,mairie.petitnoir@wanadoo.fr,"Adresse : 18 rue du Centre,39120,Petit-Noir | Tél : 03 84 81 62 07 | Fax : 03 84 81 66 42",,mairie
@@ -3223,7 +3222,7 @@ mairie-40147-01,Mairie - Laurède,mairie.laurede@orange.fr,"Adresse : 1 impasse 
 mairie-40149-01,Mairie - Lencouacq,mairie.lencouacq@wanadoo.fr,"Adresse : 5 rue de l'Église,40120,Lencouacq | Tél : 05 58 93 04 27 | Fax : 05 58 93 02 92",,mairie
 mairie-40150-01,Mairie - Léon,mairie@leon.fr,"Adresse : 83 Grand'rue - BP 3,40550,Léon | Tél : 05 58 49 20 00 | Fax : 05 58 49 20 01",http://www.leon.fr,mairie
 mairie-40151-01,Mairie - Lesgor,mairielesgor@wanadoo.fr,"Adresse : Au Bourg,40400,Lesgor | Tél : 05 58 57 21 86 | Fax : 05 58 55 52 61",http://www.lesgor.fr,mairie
-mairie-40152-01,Mairie - Lesperon,commune.lesperon@wanadoo.fr,"Adresse : 54 place Saint-Pierre,40260,Lesperon | Tél : 05 58 89 60 08 | Fax : 05 58 89 62 07",http://www.lesperon.fr,mairie
+mairie-40152-01,Mairie - Lesperon (40260),commune.lesperon@wanadoo.fr,"Adresse : 54 place Saint-Pierre,40260,Lesperon | Tél : 05 58 89 60 08 | Fax : 05 58 89 62 07",http://www.lesperon.fr,mairie
 mairie-40153-01,Mairie - Le Leuy,leleuy.mairie@wanadoo.fr,"Adresse : Place de l'Ortolan,40250,Le Leuy | Tél : 05 58 44 14 29 | Fax : 05 58 44 14 29",,mairie
 mairie-40154-01,Mairie - Lévignacq,mairie.levignacq@wanadoo.fr,"Adresse : 80 rue de la Mairie,40170,Lévignacq | Tél : 05 58 42 82 37 | Fax : 05 58 42 50 68",,mairie
 mairie-40155-01,Mairie - Linxe,contact@mairie-linxe.fr,"Adresse : 2 place de l'Église,40260,Linxe | Tél : 05 58 42 92 27 | Fax : 05 58 42 94 67",http://www.mairie-linxe.fr,mairie
@@ -3488,7 +3487,7 @@ fdapp-41018-01,Fédération départementale pour la pêche et la protection du m
 fdc-41295-01,Fédération départementale des chasseurs - Loir-et-Cher,fdc41@wanadoo.fr,"Adresse : 36 rue des Laudières - BP 30068, 41353,Vineuil Cedex | Tél : 02 54 50 01 60 | Fax : 02 54 50 01 51",http://www.chasseursducentre.fr,fdc
 gendarmerie-41136-01,Brigade de gendarmerie - Mer,bta.mer@gendarmerie.interieur.gouv.fr,"Adresse : 1 Avenue du Général de Gaulle, 41500,Mer | Tél : 02 54 81 41 20 | Fax : ",http://www.gendarmerie.interieur.gouv.fr,gendarmerie
 gendarmerie-41194-01,Brigade de gendarmerie - Romorantin-Lanthenay,bta.romorantin-lanthenay@gendarmerie.interieur.gouv.fr,"Adresse : 4 Rue du Four à Chaux, 41200,Romorantin-Lanthenay | Tél : 02 54 83 48 12 | Fax : 02 54 83 48 14",http://www.gendarmerie.interieur.gouv.fr,gendarmerie
-greta-41018-01,Greta - Val-de-Loire,contact@greta-vdl.fr,"Adresse : Lycée Augustin-Thierry - 13 avenue de Châteaudun - CS 83416, 41034,Blois Cedex | Tél : 02 54 55 15 15 | Fax : 02 47 21 00 02",http://www.greta-vdl.fr,greta
+greta-41018-01,Greta - Val-de-Loire - Blois,contact@greta-vdl.fr,"Adresse : Lycée Augustin-Thierry - 13 avenue de Châteaudun - CS 83416, 41034,Blois Cedex | Tél : 02 54 55 15 15 | Fax : 02 47 21 00 02",http://www.greta-vdl.fr,greta
 hypotheque-41018-01,Service de la publicité foncière (SPF) - Blois 1,spf.blois1@dgfip.finances.gouv.fr,"Adresse : 10, rue Louis Bodin - CS 50001, 41026,Blois Cedex | Tél : 02 54 55 71 33 | Fax : ",http://www.impots.gouv.fr,hypotheque
 hypotheque-41018-02,Service de la publicité foncière (SPF) - Blois 2,spf.blois2@dgfip.finances.gouv.fr,"Adresse : 10 rue Louis Bodin - CS 50001, 41026,Blois Cedex | Tél : 02 54 55 70 73 | Fax : ",http://www.impots.gouv.fr,hypotheque
 hypotheque-41018-03,Service de la publicité foncière (SPF) - Blois 3,spf.blois3@dgfip.finances.gouv.fr,"Adresse : 10 rue Louis Bodin - CS 50001, 41026,Blois Cedex | Tél : 02 54 55 70 73 | Fax : ",http://www.impots.gouv.fr,hypotheque
@@ -3629,9 +3628,9 @@ mairie-41167-01,Mairie - Veuzain-sur-Loire,mairie@onzain.fr,"Adresse : Mairie d�
 mairie-41167-02,Mairie déléguée - Veuves,communedeveuves@orange.fr,"Adresse : 22 avenue de la Loire - Veuves, 41150,Veuzain-sur-Loire | Tél : 02 54 70 24 40 | Fax : ",,mairie
 mairie-41168-01,Mairie - Orçay,mairie-orcay@wanadoo.fr,"Adresse : 2 route de Vierzon, 41300,Orçay | Tél : 02 54 83 37 80 | Fax : 02 54 83 39 72",http://www.orcay.fr,mairie
 mairie-41170-01,Mairie - Ouchamps,mairie-ouchamps@wanadoo.fr,"Adresse : 22 rue Victor-Drugeon, 41120,Ouchamps | Tél : 02 54 44 02 88 | Fax : 02 54 44 14 24",http://www.communeouchamps.fr,mairie
-mairie-41171-01,Mairie - Oucques-la-Nouvelle,mairie.de.oucques@wanadoo.fr,"Adresse : Mairie déléguée d'Oucques - 5 rue de la Salle, 41290,Oucques-la-Nouvelle | Tél : 02 54 23 11 00 | Fax : 02 54 23 11 04",http://www.oucques.fr,mairie
+mairie-41171-01,Mairie déléguée - Oucques-la-Nouvelle,mairie.de.oucques@wanadoo.fr,"Adresse : Mairie déléguée d'Oucques - 5 rue de la Salle, 41290,Oucques-la-Nouvelle | Tél : 02 54 23 11 00 | Fax : 02 54 23 11 04",http://www.oucques.fr,mairie
 mairie-41171-02,Mairie déléguée - Baigneaux,mairie-baigneaux@wanadoo.fr,"Adresse : Baigneaux - Le Bourg, 41290,Oucques-la-Nouvelle | Tél : 02 54 23 03 87 | Fax : 02 54 23 03 87",,mairie
-mairie-41171-03,Mairie - Oucques La Nouvelle,mairie.beauvilliers@wanadoo.fr,"Adresse : Mairie déléguée de Beauvilliers - 10 rue Principale, 41290,Oucques la Nouvelle | Tél : 02 54 23 01 67 | Fax : ",,mairie
+mairie-41171-03,Mairie déléguée - Beauvilliers - Oucques La Nouvelle,mairie.beauvilliers@wanadoo.fr,"Adresse : Mairie déléguée de Beauvilliers - 10 rue Principale, 41290,Oucques la Nouvelle | Tél : 02 54 23 01 67 | Fax : ",,mairie
 mairie-41171-04,Mairie déléguée - Sainte-Gemmes,mairie.de.sainte-gemmes@orange.fr,"Adresse : Saintes-Gemmes - 2 rue de l'École, 41290,Oucques La Nouvelle | Tél : 02 54 23 03 09 | Fax : ",,mairie
 mairie-41172-01,Mairie - Ouzouer-le-Doyen,commune.ouzouerledoyen@wanadoo.fr,"Adresse : 4 rue du Moulin-à-Vent, 41160,Ouzouer-le-Doyen | Tél : 02 54 80 49 03 | Fax : 02 54 80 49 03",,mairie
 mairie-41173-01,Mairie - Beauce-la-Romaine,mairie@beaucelaromaine.fr,"Adresse : Ouzouer-le-Marché - 7 rue Marin-Galliot, 41240,Beauce-la-Romaine | Tél : 02 54 82 40 04 | Fax : 02 54 82 49 17",http://www.beaucelaromaine.fr,mairie
@@ -3849,7 +3848,7 @@ mairie-42003-01,Mairie - Ambierle,prieure@orange.fr,"Adresse : 29 cours Saint-Ch
 mairie-42005-01,Mairie - Andrézieux-Bouthéon,mairie@andrezieux-boutheon.com,"Adresse : Avenue du Parc - CS 010032,42161,Andrézieux-Bouthéon Cedex | Tél : 04 77 55 03 42 | Fax : 04 77 55 52 50",http://www.andrezieux-boutheon.com,mairie
 mairie-42006-01,Mairie - Apinac,mairie.apinac@wanadoo.fr,"Adresse : 100 place de l'Église,42550,Apinac | Tél : 04 77 50 25 81 | Fax : 04 77 50 23 12",http://www.apinac.fr,mairie
 mairie-42007-01,Mairie - Arcinges,communearcinges@wanadoo.fr,"Adresse : Le Bourg - 55 rue de la Mairie,42460,Arcinges | Tél : 04 77 60 52 44 | Fax : ",,mairie
-mairie-42008-01,Mairie - Arcon,mairiearcon@wanadoo.fr,"Adresse : 76 place Verdun,42370,Arcon | Tél : 04 77 65 85 67 | Fax : 04 77 65 85 67",,mairie
+mairie-42008-01,Mairie - Arcon (42370),mairiearcon@wanadoo.fr,"Adresse : 76 place Verdun,42370,Arcon | Tél : 04 77 65 85 67 | Fax : 04 77 65 85 67",,mairie
 mairie-42009-01,Mairie - Arthun,mairie.darthun@wanadoo.fr,"Adresse : 30 place du 19-Mars-01962,42130,Arthun | Tél : 04 77 24 60 21 | Fax : ",http://www.arthun.fr,mairie
 mairie-42010-01,Mairie - Aveizieux,mairie@mairieaveizieux.fr,"Adresse : 1 rue des Érables,42330,Aveizieux | Tél : 04 77 94 00 12 | Fax : 04 77 94 11 10",http://www.mairie-aveizieux.fr,mairie
 mairie-42011-01,Mairie - Balbigny,commune.balbigny@wanadoo.fr,"Adresse : 20 rue du 11-Novembre - BP 3,42510,Balbigny | Tél : 04 77 28 14 12 | Fax : 04 77 27 20 02",http://www.balbigny.fr,mairie
@@ -3993,7 +3992,7 @@ mairie-42176-01,Mairie - Pouilly-les-Nonains,mairie@pouilly-les-nonains.fr,"Adre
 mairie-42177-01,Mairie - Pouilly-sous-Charlieu,mairie.pouilly-sous-charlieu42@wanadoo.fr,"Adresse : 230 rue de la République,42720,Pouilly-sous-Charlieu | Tél : 04 77 60 90 22 | Fax : 04 77 60 79 44",http://www.pouillysouscharlieu.fr,mairie
 mairie-42179-01,Mairie - Pralong,mairie.pralong@wanadoo.fr,"Adresse : 32 rue Louis-Varigas,42600,Pralong | Tél : 04 77 97 17 45 | Fax : 04 77 97 04 54",http://www.mairiepralong.fr,mairie
 mairie-42180-01,Mairie - Précieux,mairie-precieux@wanadoo.fr,"Adresse : 22 route d'Azieux,42600,Précieux | Tél : 04 77 76 03 79 | Fax : 04 77 76 95 38",http://www.commune-precieux.fr,mairie
-mairie-42181-01,Mairie - Régny,accueil@regny.fr,"Adresse : Place Jacques-Fougerat,42630,Régny | Tél : 04 77 63 00 34 | Fax : 04 77 63 07 81",http://www.regny.fr,mairie
+mairie-42181-01,Mairie - Régny (42630),accueil@regny.fr,"Adresse : Place Jacques-Fougerat,42630,Régny | Tél : 04 77 63 00 34 | Fax : 04 77 63 07 81",http://www.regny.fr,mairie
 mairie-42182-01,Mairie - Renaison,contact@renaison.fr,"Adresse : 152 rue de Gruyères - BP 6,42370,Renaison | Tél : 04 77 64 40 22 | Fax : 04 77 64 49 98",http://www.renaison.fr,mairie
 mairie-42183-01,Mairie - La Ricamarie,mairie@ville-la-ricamarie.fr,"Adresse : Place Michel-Rondet - CS 40042,42150,La Ricamarie | Tél : 04 77 81 04 00 | Fax : 04 77 81 04 01",http://www.ville-laricamarie.fr,mairie
 mairie-42184-01,Mairie - Riorges,michel.royer@riorges.fr,"Adresse : 411 rue Pasteur,42153,Riorges | Tél : 04 77 23 62 62 | Fax : 04 77 70 26 69",http://www.riorges.fr,mairie
@@ -4242,7 +4241,7 @@ mairie-43012-01,Mairie - Aurec-sur-Loire,mairie@mairie-aurec.fr,"Adresse : Place
 mairie-43013-01,Mairie - Vissac-Auteyrac,mairie-vissac-auteyrac@orange.fr,"Adresse : Lachaud-Curmilhac,43300,Vissac-Auteyrac | Tél : 04 71 74 21 03 | Fax : ",http://www.vissac-auteyrac.fr,mairie
 mairie-43014-01,Mairie - Autrac,mairieautrac@wanadoo.fr,"Adresse : Le Bourg,43450,Autrac | Tél : 04 71 76 25 55 | Fax : 04 71 76 25 55",,mairie
 mairie-43016-01,Mairie - Auzon,mairie-auzon@wanadoo.fr,"Adresse : 14 place de la Halle,43390,Auzon | Tél : 04 71 76 11 42 | Fax : ",http://www.auzon.net,mairie
-mairie-43017-01,Mairie - Azérat,mairie.azerat43@orange.fr,"Adresse : Le Bourg,43390,Azérat | Tél : 04 71 76 10 56 | Fax : 04 71 76 10 56",,mairie
+mairie-43017-01,Mairie - Azérat (43390),mairie.azerat43@orange.fr,"Adresse : Le Bourg,43390,Azérat | Tél : 04 71 76 10 56 | Fax : 04 71 76 10 56",,mairie
 mairie-43018-01,Mairie - Bains,mairie-bains@wanadoo.fr,"Adresse : Place de la Mairie,43370,Bains | Tél : 04 71 57 50 82 | Fax : 04 71 57 54 57",,mairie
 mairie-43020-01,Mairie - Bas-en-Basset,contact@basenbasset.fr,"Adresse : 1 place de la Mairie - BP 2,43210,Bas-en-Basset | Tél : 04 71 66 72 37 | Fax : 04 71 66 94 82",http://www.basenbasset.fr,mairie
 mairie-43023-01,Mairie - Beaune-sur-Arzon,mairie.beaune.sur.arzon@wanadoo.fr,"Adresse : Le Bourg,43500,Beaune-sur-Arzon | Tél : 04 71 03 62 24 | Fax : 04 71 03 62 24",,mairie
@@ -4356,7 +4355,7 @@ mairie-43148-01,Mairie - Paulhaguet,mairiepaulhaguet@orange.fr,"Adresse : Place 
 mairie-43149-01,Mairie - Pébrac,mairie-pebrac@wanadoo.fr,"Adresse : Le Bourg,43300,Pébrac | Tél : 04 71 74 02 85 | Fax : ",,mairie
 mairie-43150-01,Mairie - Le Pertuis,mairie.lepertuis@wanadoo.fr,"Adresse : Le Bourg,43200,Le Pertuis | Tél : 04 71 57 61 61 | Fax : ",,mairie
 mairie-43151-01,Mairie - Pinols,mairiepinols@wanadoo.fr,"Adresse : Le Bourg,43300,Pinols | Tél : 04 71 74 10 42 | Fax : ",,mairie
-mairie-43152-01,Mairie - Polignac,mairie@mairiedepolignac.fr,"Adresse : Place de l'Église,43000,Polignac | Tél : 04 71 09 49 78 | Fax : 04 71 02 91 35",http://www.mairiedepolignac.fr,mairie
+mairie-43152-01,Mairie - Polignac (43000),mairie@mairiedepolignac.fr,"Adresse : Place de l'Église,43000,Polignac | Tél : 04 71 09 49 78 | Fax : 04 71 02 91 35",http://www.mairiedepolignac.fr,mairie
 mairie-43153-01,Mairie - Pont-Salomon,secretariat.pontsalomon.mairie@orange.fr,"Adresse : 16 rue de la Mairie,43330,Pont-Salomon | Tél : 04 77 35 51 25 | Fax : 04 77 35 50 98",http://www.pont-salomon.fr,mairie
 mairie-43156-01,Mairie - Présailles,sec.mairie.presailles@orange.fr,"Adresse : Le Bourg,43150,Présailles | Tél : 04 71 03 94 33 | Fax : 04 71 03 94 33",,mairie
 mairie-43157-01,Mairie - Le Puy-en-Velay,contact@lepuyenvelay.fr,"Adresse : 1 place du Martouret - BP 20317,43011,Le-Puy-en-Velay Cedex | Tél : 04 71 04 07 40 | Fax : ",http://www.lepuyenvelay.fr,mairie
@@ -4669,7 +4668,7 @@ mairie-44077-01,Mairie - Joué-sur-Erdre,mairiejouesurerdre@wanadoo.fr,"Adresse 
 mairie-44078-01,Mairie - Juigné-des-Moutiers,mairie.juignelesmoutiers@wanadoo.fr,"Adresse : 11 rue de la Mairie,44670,Juigné-des-Moutiers | Tél : 02 40 55 51 06 | Fax : 02 40 55 51 06",http://www.juignedesmoutiers.fr,mairie
 mairie-44079-01,Mairie - Le Landreau,mairie@le-landreau.fr,"Adresse : Place de l'Hôtel-de-Ville,44430,Le Landreau | Tél : 02 40 06 43 75 | Fax : 02 40 06 48 15",http://www.le-landreau.fr,mairie
 mairie-44080-01,Mairie - Lavau-sur-Loire,mairie.lavau-sur-loire@orange.fr,"Adresse : 1 rue de la Mairie,44260,Lavau-sur-Loire | Tél : 02 40 56 10 26 | Fax : 02 40 56 14 53",http://www.lavau-sur-loire.fr,mairie
-mairie-44081-01,Mairie - Legé,contact@ville-lege44.fr,"Adresse : 11 rue de la Chaussée,44650,Legé | Tél : 02 40 26 35 00 | Fax : 02 40 26 31 84",http://www.ville-lege44.fr,mairie
+mairie-44081-01,Mairie - Legé (44650),contact@ville-lege44.fr,"Adresse : 11 rue de la Chaussée,44650,Legé | Tél : 02 40 26 35 00 | Fax : 02 40 26 31 84",http://www.ville-lege44.fr,mairie
 mairie-44083-01,Mairie - La Limouzinière,accueil@lalimouziniere.fr,"Adresse : 10 rue Charles-de-Gaulle,44310,La Limouzinière | Tél : 02 40 05 82 82 | Fax : 02 40 05 97 29",http://www.mairie-la-limouziniere.com,mairie
 mairie-44084-01,Mairie - Le Loroux-Bottereau,contact@loroux-bottereau.fr,"Adresse : 14 place Rosmadec - BP 20,44430,Le Loroux-Bottereau | Tél : 02 51 71 91 00 | Fax : 02 40 33 86 16",http://www.loroux-bottereau.fr,mairie
 mairie-44085-01,Mairie - Louisfert,commune.louisfert@wanadoo.fr,"Adresse : 1 bis rue Espérance,44110,Louisfert | Tél : 02 40 81 26 72 | Fax : ",http://www.commune.louisfert.fr,mairie
