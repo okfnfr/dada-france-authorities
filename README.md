@@ -51,7 +51,7 @@ Ministères : `ministere`
 
 Centre de gestion de la fonction publique territoriale (CDG) : `cdg`   
 Centre national de la fonction publique territoriale (CNFPT) - Antenne départementale : `cnfpt`   
-[ ] Conseil départemental : `cg`   
+[] Conseil départemental : `cg`   
 Conseil économique, social et environnemental régional (CESER) : `cesr`   
 Conseil régional : `cr`   
 Intercommunalité : `epci`   
