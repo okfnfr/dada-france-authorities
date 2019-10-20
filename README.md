@@ -40,10 +40,10 @@ Mots clés séparès par un espace permettant de filtrer les administrations. Le
 
   `administration-nationale`  
 
-Ambassades de France : `ambassade`   
-Autorités indépendantes : `autorite-administrative-independante` ou `autorite-publique-independante`   
-Institutions et juridictions : `institution` ou `juridiction`   
-Ministères : `ministere`   
+* [ ] Ambassades de France : `ambassade`   
+* [x] Autorités indépendantes : `autorite-administrative-independante` ou `autorite-publique-independante`   
+* [x] Institutions et juridictions : `institution` ou `juridiction`   
+* [x] Ministères : `ministere`   
 
 ### Administration locale  
 
@@ -51,39 +51,39 @@ Ministères : `ministere`
 
 Centre de gestion de la fonction publique territoriale (CDG) : `cdg`   
 Centre national de la fonction publique territoriale (CNFPT) - Antenne départementale : `cnfpt`   
-* [*] Conseil départemental : `cg`   
-* [*] Conseil économique, social et environnemental régional (CESER) : `cesr`   
-* [*] Conseil régional : `cr`   
-* [*] Intercommunalité : `epci`   
-* [*] Mairie : `mairie`   
-* [*] Préfecture : `prefecture`   
-* [*] Préfecture de police de Paris, antenne d'arrondissement : `paris_ppp_antenne`   
-* [*] Préfecture de région : `prefecture_region`   
-* [*] Sous-préfecture : `sous_pref`   
+* [x] Conseil départemental : `cg`   
+* [x] Conseil économique, social et environnemental régional (CESER) : `cesr`   
+* [x] Conseil régional : `cr`   
+* [x] Intercommunalité : `epci`   
+* [x] Mairie : `mairie`   
+* [x] Préfecture : `prefecture`   
+* [x] Préfecture de police de Paris, antenne d'arrondissement : `paris_ppp_antenne`   
+* [x] Préfecture de région : `prefecture_region`   
+* [x] Sous-préfecture : `sous_pref`   
 
 ### Social, santé  
 
 `social-sante`  
 
-Agence régionale de santé (ARS) : `ars`   
-Agence régionale de santé (ARS) - Délégation départementale : `ars_antenne`   
-Association de gestion du fonds pour l'insertion professionnelle des personnes handicapées (AGEFIPH) : `agefiph`   
-Caisse d'allocations familiales (CAF) : `caf`   
-Caisse d'assurance retraite et de la santé au travail (CARSAT) : `carsat`   
-Caisse primaire d'assurance maladie (CPAM) : `cpam`   
-Centre d'information de conseil et d'accueil des salariés (CICAS) : `cicas`   
-Centre d'information sur les droits des femmes et des familles (CIDFF) : `cidf`   
-Centre de protection maternelle et infantile (PMI) : `pmi`   
-Centre hospitalier universitaire (CHU) : `chu`   
-Direction de la cohésion sociale, du travail, de l'emploi et de la population (DCSTEP) - Outre-mer : `dcstep`  
-Direction départementale de la cohésion sociale (DDCS) : `ddcs`   
-Direction départementale de la cohésion sociale et de la protection des populations (DDCSPP) : `ddcspp`   
-Maison départementale des personnes handicapées (MDPH) : `maison_handicapees`   
-Mutualité sociale agricole (MSA) - réseau local : `msa`   
-Plateforme d'accompagnement et de répit pour les aidants de personnes âgées : `accompagnement_personnes_agees`   
-Point d'information local pour les personnes âgées : `clic`   
-Point info famille : `pif`   
-Union de recouvrement des cotisations de sécurité sociale et d’allocations familiales (URSSAF) : `urssaf`   
+* [x] Agence régionale de santé (ARS) : `ars`   
+* [x] Agence régionale de santé (ARS) - Délégation départementale : `ars_antenne`   
+* [x] Association de gestion du fonds pour l'insertion professionnelle des personnes handicapées (AGEFIPH) : `agefiph`   
+* [x] Caisse d'allocations familiales (CAF) : `caf`   
+* [x] Caisse d'assurance retraite et de la santé au travail (CARSAT) : `carsat`   
+* [x] Caisse primaire d'assurance maladie (CPAM) : `cpam`   
+* [x] Centre d'information de conseil et d'accueil des salariés (CICAS) : `cicas`   
+* [x] Centre d'information sur les droits des femmes et des familles (CIDFF) : `cidf`   
+* [x] Centre de protection maternelle et infantile (PMI) : `pmi`   
+* [x] Centre hospitalier universitaire (CHU) : `chu`   
+* [x] Direction de la cohésion sociale, du travail, de l'emploi et de la population (DCSTEP) - Outre-mer : `dcstep`  
+* [x] Direction départementale de la cohésion sociale (DDCS) : `ddcs`   
+* [x] Direction départementale de la cohésion sociale et de la protection des populations (DDCSPP) : `ddcspp`   
+* [x] Maison départementale des personnes handicapées (MDPH) : `maison_handicapees`   
+* [x] Mutualité sociale agricole (MSA) - réseau local : `msa`   
+* [x] Plateforme d'accompagnement et de répit pour les aidants de personnes âgées : `accompagnement_personnes_agees`   
+* [x] Point d'information local pour les personnes âgées : `clic`   
+* [x] Point info famille : `pif`   
+* [x] Union de recouvrement des cotisations de sécurité sociale et d’allocations familiales (URSSAF) : `urssaf`   
 
 ### Travail, emploi, formation  
 
@@ -93,7 +93,7 @@ Agence nationale pour la formation professionnelle des adultes (Afpa) : `afpa`
 Association pour l'emploi des cadres (Apec) : `apec`   
 Association pour l'emploi des cadres, ingénieurs et techniciens de l'agriculture et de l'agroalimentaire (Apecita) : `apecita`   
 Cap emploi : `cap_emploi`   
-Chambre de commerce et d’industrie (CCI) : `cci`   
+* [x] Chambre de commerce et d’industrie (CCI) : `cci`   
 Chambre de l'agriculture : `chambre_agriculture`   
 Chambre des métiers et de l'artisanat (CMA) : `chambre_metier`   
 Etablissement pour l'insertion dans l'emploi (EPIDE) : `epide`   
@@ -125,8 +125,8 @@ Paierie régionale : `paierie_regionale`
 Pôle de recouvrement spécialisé : `prs`   
 Service de la publicité foncière : `hypotheque`   
 Service départemental de l'enregistrement : `sde`   
-Service des impôts des entreprises (SIE) : `sie`   
-Service des impôts des particuliers (SIP) : `sip`   
+* [x] Service des impôts des entreprises (SIE) : `sie`   
+* [x] Service des impôts des particuliers (SIP) : `sip`   
 Trésorerie : `tresorerie`   
 
 ### Enseignement, recherche  
@@ -141,7 +141,7 @@ Direction de services départementaux de l'Éducation nationale (DSDEN) : `inspe
 École supérieure du professorat et de l’éducation (ESPE) : `espe`   
 Groupement d'établissements publics d'enseignement (GRETA) : `greta`   
 Office national d'information sur les enseignements et les professions (ONISEP) - délégation régionale : `dronisep`   
-Rectorat : `rectorat`   
+* [x] Rectorat : `rectorat`   
 Réseau Canopé - atelier départemental : `canope_atelier`   
 Réseau Canopé - direction territoriale : `canope_dt`   
 Service universitaire d'information et d'orientation (SUIO) : `suio`   
@@ -150,9 +150,9 @@ Service universitaire d'information et d'orientation (SUIO) : `suio`
 
 `environnement-logement-transports`
 
-Agence de l’environnement et de la maîtrise de l’énergie (ADEME) : `ademe`   
-Agence départementale d'information sur le logement (ADIL) : `adil`   
-Agence nationale de l’habitat (ANAH) - réseau local : `anah`   
+* [x] Agence de l’environnement et de la maîtrise de l’énergie (ADEME) : `ademe`   
+* [x] Agence départementale d'information sur le logement (ADIL) : `adil`   
+* [x] Agence nationale de l’habitat (ANAH) - réseau local : `anah`   
 Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et l'aménagement (CEREMA) - direction territoriale : `cerema`   
 Centre en route de la navigation aérienne (CRNA) : `cnra`   
 Délégation à la mer et au littoral (DML) : `dml`   
@@ -177,7 +177,7 @@ Voies navigables de France (VNF) : `service_navigation`
 
 `securite-defense`  
 
-Brigade de gendarmerie : `gendarmerie`   
+* [x] Brigade de gendarmerie : `gendarmerie`   
 Brigade motorisée de gendarmerie : `gendarmerie_moto`   
 Centre d'information et de recrutement (CIR) de la gendarmerie nationale : `cirgn`   
 Centre d'information et de recrutement des forces armées (CIRFA) : `cirfa`   
@@ -198,7 +198,7 @@ Service départemental d'incendie et de secours (SDIS) : `sdis`
 
 `droit-justice`  
 
-Bureau d'aide aux victimes : `bav`    
+* [x] Bureau d'aide aux victimes : `bav`    
 Chambre départementale des huissiers de justice : `huissiers_justice`   
 Chambre départementale des notaires : `chambre_notaires`   
 Commission d'indemnisation des victimes d'infraction (Civi) : `civi`   
@@ -233,7 +233,7 @@ Tribunal pour enfants : `te`
 
 `associations-culture-jeunesse`
 
-Archives départementales : `ad`   
+* [x] Archives départementales : `ad`   
 Bibliothèque départementale de prêt : `bibli`   
 Centre de ressources et d'information des bénévoles (Crib) : `crib`   
 Conseil d'architecture, d'urbanisme et de l'environnement (CAUE) : `caue`   
@@ -252,13 +252,13 @@ Unité départementale de l'architecture et du patrimoine (UDAP) : `sdac`
 
 `associations-culture-jeunesse`
 
-Association : `association`  
-Établissement public à caractère industriel et commercial : `epic`  
-Établissement publi à caractère administratif : `epa`  
-Établissements publics à caractère scientifique, culturel et professionnel : `epscp`  
-Établissement public à caractère scientifique et technologique : `epst`  
-Groupement d'intérêt général : `gie`  
-Groupement d'intérêt public : `gip`  
-Fondation : `fondation`  
-Sui generis : `sui-generis`  
+* [x] Association : `association`  
+* [x] Établissement public à caractère industriel et commercial : `epic`  
+* [x] Établissement publi à caractère administratif : `epa`  
+* [x] Établissements publics à caractère scientifique, culturel et professionnel : `epscp`  
+* [x] Établissement public à caractère scientifique et technologique : `epst`  
+* [x] Groupement d'intérêt général : `gie`  
+* [x] Groupement d'intérêt public : `gip`  
+* [x] Fondation : `fondation`  
+* [x] Sui generis : `sui-generis`  
 
