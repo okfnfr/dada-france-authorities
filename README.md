@@ -51,15 +51,15 @@ Ministères : `ministere`
 
 Centre de gestion de la fonction publique territoriale (CDG) : `cdg`   
 Centre national de la fonction publique territoriale (CNFPT) - Antenne départementale : `cnfpt`   
-* [ ] Conseil départemental : `cg`   
-* [ ] Conseil économique, social et environnemental régional (CESER) : `cesr`   
-* [ ] Conseil régional : `cr`   
-* [ ] Intercommunalité : `epci`   
-* [ ] Mairie : `mairie`   
-* [ ] Préfecture : `prefecture`   
-* [ ] Préfecture de police de Paris, antenne d'arrondissement : `paris_ppp_antenne`   
-* [ ] Préfecture de région : `prefecture_region`   
-* [ ] Sous-préfecture : `sous_pref`   
+* [*] Conseil départemental : `cg`   
+* [*] Conseil économique, social et environnemental régional (CESER) : `cesr`   
+* [*] Conseil régional : `cr`   
+* [*] Intercommunalité : `epci`   
+* [*] Mairie : `mairie`   
+* [*] Préfecture : `prefecture`   
+* [*] Préfecture de police de Paris, antenne d'arrondissement : `paris_ppp_antenne`   
+* [*] Préfecture de région : `prefecture_region`   
+* [*] Sous-préfecture : `sous_pref`   
 
 ### Social, santé  
 
