@@ -40,7 +40,7 @@ Mots clés séparès par un espace permettant de filtrer les administrations. Le
 
   `administration-nationale`  
 
-* [ ] Ambassades de France : `ambassade`   
+* [x] Ambassades de France : `ambassade`   
 * [x] Autorités indépendantes : `autorite-administrative-independante` ou `autorite-publique-independante`   
 * [x] Institutions et juridictions : `institution` ou `juridiction`   
 * [x] Ministères : `ministere`   
