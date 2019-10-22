@@ -178,75 +178,75 @@ Centre national de la fonction publique territoriale (CNFPT) - Antenne départem
 `securite-defense`  
 
 * [x] Brigade de gendarmerie : `gendarmerie`   
-Brigade motorisée de gendarmerie : `gendarmerie_moto`   
-Centre d'information et de recrutement (CIR) de la gendarmerie nationale : `cirgn`   
-Centre d'information et de recrutement des forces armées (CIRFA) : `cirfa`   
-Centre de recrutement et de formation de la police nationale (CRFPN) : `crfpn`   
-Centre du Service national : `bsn`   
-Commissariat de police : `commissariat_police`   
-Direction de la police aux frontières : `dz_paf`   
-Direction départementale de la sécurité publique (DDSP) : `ddsp`   
-Direction régionale de la police judiciaire (DRPJ) : `dir_pj`   
-Groupement de gendarmerie départementale : `gendarmerie_departementale`   
-Office national des anciens combattants et victimes de guerre (ONACVG) : `onac`   
-Préfecture de police de Paris : `paris_ppp`   
-Préfecture de police des Bouches-du-Rhône : `pp_marseille`   
-Secrétariat général pour l'administration du ministère de l'Intérieur (SGAMI) : `sgami`   
-Service départemental d'incendie et de secours (SDIS) : `sdis`   
+* [x] Brigade motorisée de gendarmerie : `gendarmerie_moto`   
+* [x] Centre d'information et de recrutement (CIR) de la gendarmerie nationale : `cirgn`   
+* [x] Centre d'information et de recrutement des forces armées (CIRFA) : `cirfa`   
+* [x] Centre de recrutement et de formation de la police nationale (CRFPN) : `crfpn`   
+* [x] Centre du Service national : `bsn`   
+* [x] Commissariat de police : `commissariat_police`   
+* [x] Direction de la police aux frontières : `dz_paf`   
+* [x] Direction départementale de la sécurité publique (DDSP) : `ddsp`   
+* [x] Direction régionale de la police judiciaire (DRPJ) : `dir_pj`   
+* [x] Groupement de gendarmerie départementale : `gendarmerie_departementale`   
+* [x] Office national des anciens combattants et victimes de guerre (ONACVG) : `onac`   
+* [x] Préfecture de police de Paris : `paris_ppp`   
+* [x] Préfecture de police des Bouches-du-Rhône : `pp_marseille`   
+* [x] Secrétariat général pour l'administration du ministère de l'Intérieur (SGAMI) : `sgami`   
+* [x] Service départemental d'incendie et de secours (SDIS) : `sdis`   
 
 ### Droit, justice  
 
 `droit-justice`  
 
 * [x] Bureau d'aide aux victimes : `bav`    
-Chambre départementale des huissiers de justice : `huissiers_justice`   
-Chambre départementale des notaires : `chambre_notaires`   
-Commission d'indemnisation des victimes d'infraction (Civi) : `civi`   
-Commission départementale de conciliation : `commission_conciliation`   
-Conseil de Prud'hommes : `prudhommes`   
-Cour administrative d'appel : `caa`   
-Cour criminelle départementale : `ccd`   
-Cour d'appel : `cour_appel`   
-Délégation départementale aux droits des femmes et à l'égalité (DDDFE) : `dd_femmes`   
-Délégation régionale aux droits des femmes et à l'égalité (DRDFE) : `dr_femmes`   
-Direction interrégionale de la protection judiciaire de la jeunesse (DIRPJJ) : `drpjj`   
-Direction interrégionale des services pénitentiaires (DISP) : `drsp`   
-Direction territoriale de l'Office français de l'immigration et de l'intégration (OFII) : `ofii`   
-Direction territoriale de la protection judiciaire de la jeunesse (DTPJJ) : `ddpjj`   
-Établissement pénitentiaire - Centre de détention : `centre_detention`   
-Établissement pénitentiaire - Centre de semi-liberté : `csl`   
-Établissement pénitentiaire - Centre pénitentiaire : `centre_penitentiaire`   
-Établissement pénitentiaire - Maison centrale : `maison_centrale`   
-Établissement pénitentiaire - Maison d'arrêt : `maison_arret`   
-Établissement pénitentiaire spécialisé pour mineurs (ESM) : `esm`   
-Maison de justice et du droit : `mjd`   
-Ordre des avocats - Barreau : `ordre_avocats`   
-Point d'accès au droit : `permanence_juridique`   
-Service pénitentiaire d'insertion et de probation (SPIP) : `spip`   
-Tribunal administratif : `ta`   
-Tribunal d'instance : `ti`   
-Tribunal de commerce : `tribunal_commerce`   
-Tribunal de grande instance (TGI) : `tgi`   
-Tribunal pour enfants : `te`   
+* [x] Chambre départementale des huissiers de justice : `huissiers_justice`   
+* [x] Chambre départementale des notaires : `chambre_notaires`   
+* [x] Commission d'indemnisation des victimes d'infraction (Civi) : `civi`   
+* [x] Commission départementale de conciliation : `commission_conciliation`   
+* [x] Conseil de Prud'hommes : `prudhommes`   
+* [x] Cour administrative d'appel : `caa`   
+* [x] Cour criminelle départementale : `ccd`   
+* [x] Cour d'appel : `cour_appel`   
+* [x] Délégation départementale aux droits des femmes et à l'égalité (DDDFE) : `dd_femmes`   
+* [x] Délégation régionale aux droits des femmes et à l'égalité (DRDFE) : `dr_femmes`   
+* [x] Direction interrégionale de la protection judiciaire de la jeunesse (DIRPJJ) : `drpjj`   
+* [x] Direction interrégionale des services pénitentiaires (DISP) : `drsp`   
+* [x] Direction territoriale de l'Office français de l'immigration et de l'intégration (OFII) : `ofii`   
+* [x] Direction territoriale de la protection judiciaire de la jeunesse (DTPJJ) : `ddpjj`   
+* [x] Établissement pénitentiaire - Centre de détention : `centre_detention`   
+* [x] Établissement pénitentiaire - Centre de semi-liberté : `csl`   
+* [x] Établissement pénitentiaire - Centre pénitentiaire : `centre_penitentiaire`   
+* [x] Établissement pénitentiaire - Maison centrale : `maison_centrale`   
+* [x] Établissement pénitentiaire - Maison d'arrêt : `maison_arret`   
+* [x] Établissement pénitentiaire spécialisé pour mineurs (ESM) : `esm`   
+* [x] Maison de justice et du droit : `mjd`   
+* [x] Ordre des avocats - Barreau : `ordre_avocats`   
+* [x] Point d'accès au droit : `permanence_juridique`   
+* [x] Service pénitentiaire d'insertion et de probation (SPIP) : `spip`   
+* [x] Tribunal administratif : `ta`   
+* [x] Tribunal d'instance : `ti`   
+* [x] Tribunal de commerce : `tribunal_commerce`   
+* [x] Tribunal de grande instance (TGI) : `tgi`   
+* [x] Tribunal pour enfants : `te`   
 
 ### Associations, cultures, jeunesse  
 
 `associations-culture-jeunesse`
 
 * [x] Archives départementales : `ad`   
-Bibliothèque départementale de prêt : `bibli`   
-Centre de ressources et d'information des bénévoles (Crib) : `crib`   
-Conseil d'architecture, d'urbanisme et de l'environnement (CAUE) : `caue`   
-Conseil de la culture, de l'éducation et de l'environnement (CCEE) - Outre-mer : `conseil_culture`   
-Délégué départemental à la vie associative (DDVA) : `ddva`   
-Direction départementale de la jeunesse et des sports (DDJS) : `ddjs`   
-Direction régionale des affaires culturelles (DRAC) : `drac`   
-Fédération départementale de la pêche et de la protection du milieu aquatique : `fdapp`   
-Fédération départementale des chasseurs : `fdc`   
-Greffe des associations : `prefecture_greffe_associations`   
-Information jeunesse (réseau local) : `cij`   
-Mission d'accueil et d'information des associations (MAIA) : `maia`   
-Unité départementale de l'architecture et du patrimoine (UDAP) : `sdac`
+* [x] Bibliothèque départementale de prêt : `bibli`   
+* [x] Centre de ressources et d'information des bénévoles (Crib) : `crib`   
+* [x] Conseil d'architecture, d'urbanisme et de l'environnement (CAUE) : `caue`   
+* [x] Conseil de la culture, de l'éducation et de l'environnement (CCEE) - Outre-mer : `conseil_culture`   
+* [x] Délégué départemental à la vie associative (DDVA) : `ddva`   
+* [x] Direction départementale de la jeunesse et des sports (DDJS) : `ddjs`   
+* [x] Direction régionale des affaires culturelles (DRAC) : `drac`   
+* [x] Fédération départementale de la pêche et de la protection du milieu aquatique : `fdapp`   
+* [x] Fédération départementale des chasseurs : `fdc`   
+* [x] Greffe des associations : `prefecture_greffe_associations`   
+* [x] Information jeunesse (réseau local) : `cij`   
+* [x] Mission d'accueil et d'information des associations (MAIA) : `maia`   
+* [x] Unité départementale de l'architecture et du patrimoine (UDAP) : `sdac`
 
 ### Opérateurs de l'État
 
