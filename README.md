@@ -89,62 +89,62 @@ Centre national de la fonction publique territoriale (CNFPT) - Antenne départem
 
 `travail-emploi-formation`  
 
-Agence nationale pour la formation professionnelle des adultes (Afpa) : `afpa`   
-Association pour l'emploi des cadres (Apec) : `apec`   
-Association pour l'emploi des cadres, ingénieurs et techniciens de l'agriculture et de l'agroalimentaire (Apecita) : `apecita`   
-Cap emploi : `cap_emploi`   
+* [x] Agence nationale pour la formation professionnelle des adultes (Afpa) : `afpa`   
+* [x] Association pour l'emploi des cadres (Apec) : `apec`   
+* [x] Association pour l'emploi des cadres, ingénieurs et techniciens de l'agriculture et de l'agroalimentaire (Apecita) : `apecita`   
+* [x] Cap emploi : `cap_emploi`   
 * [x] Chambre de commerce et d’industrie (CCI) : `cci`   
-Chambre de l'agriculture : `chambre_agriculture`   
-Chambre des métiers et de l'artisanat (CMA) : `chambre_metier`   
-Etablissement pour l'insertion dans l'emploi (EPIDE) : `epide`   
-Maison de services au public : `msap`   
-Mission locale (pour les 16-25 ans) : `mission_locale`   
-Pôle emploi : `pole_emploi`   
+* [x] Chambre de l'agriculture : `chambre_agriculture`   
+* [x] Chambre des métiers et de l'artisanat (CMA) : `chambre_metier`   
+* [x] Etablissement pour l'insertion dans l'emploi (EPIDE) : `epide`   
+* [x] Maison* [x]  de services au public : `msap`   
+* [x] Mission locale (pour les 16-25 ans) : `mission_locale`   
+* [x] Pôle emploi : `pole_emploi`   
 
 ### Économie, finances, consommation  
 
 `economie-finances-consommation`  
 
-Banque de France (succursale) : `banque_de_france`   
-Bureau de douane : `bureau_de_douane`   
-Cadastre : `cadastre`   
-Centre des impôts foncier : `centre_impots_fonciers`   
-Conciliateur fiscal départemental : `conciliateur_fiscal`   
-Cour des comptes (chambre régionale ou territoriale) : `crc`   
-Crédit municipal : `credit_municipal`   
-Direction départementale de la protection des populations (DDPP) : `ddpp`   
-Direction départementale des finances publiques (DDFIP) : `dd_fip`   
-Direction régionale de l'INSEE : `dr_insee`   
-Direction régionale des douanes et droits indirects : `drddi`   
-Direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi (DIRECCTE) : `direccte`   
-Direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi (DIRECCTE) - unité départementale : `direccte_ut`   
-Direction régionale des finances publiques (DRFIP) : `dr_fip`   
-Direction spécialisée du contrôle fiscal : `dcf`   
-Paierie départementale : `paierie_departementale`   
-Paierie régionale : `paierie_regionale`   
-Pôle de recouvrement spécialisé : `prs`   
-Service de la publicité foncière : `hypotheque`   
-Service départemental de l'enregistrement : `sde`   
+* [x] Banque de France (succursale) : `banque_de_france`   
+* [x] Bureau de douane : `bureau_de_douane`   
+* [x] Cadastre : `cadastre`   
+* [x] Centre des impôts foncier : `centre_impots_fonciers`   
+* [x] Conciliateur fiscal départemental : `conciliateur_fiscal`   
+* [x] Cour des comptes (chambre régionale ou territoriale) : `crc`   
+* [x] Crédit municipal : `credit_municipal`   
+* [x] Direction départementale de la protection des populations (DDPP) : `ddpp`   
+* [x] Direction départementale des finances publiques (DDFIP) : `dd_fip`   
+* [x] Direction régionale de l'INSEE : `dr_insee`   
+* [x] Direction régionale des douanes et droits indirects : `drddi`   
+* [x] Direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi (DIRECCTE) : `direccte`   
+* [x] Direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi (DIRECCTE) - unité départementale : `direccte_ut`   
+* [x] Direction régionale des finances publiques (DRFIP) : `dr_fip`   
+* [x] Direction spécialisée du contrôle fiscal : `dcf`   
+* [x] Paierie départementale : `paierie_departementale`   
+* [x] Paierie régionale : `paierie_regionale`   
+* [x] Pôle de recouvrement spécialisé : `prs`   
+* [x] Service de la publicité foncière : `hypotheque`   
+* [x] Service départemental de l'enregistrement : `sde`   
 * [x] Service des impôts des entreprises (SIE) : `sie`   
 * [x] Service des impôts des particuliers (SIP) : `sip`   
-Trésorerie : `tresorerie`   
+* [x] Trésorerie : `tresoreri* [x] * [x] * [x] e`   
 
 ### Enseignement, recherche  
 
 `enseignement-recherche`  
 
-Centre d'information et d’orientation (CIO) : `cio`   
-Centre de ressources, d'expertise et de performances sportives (CREPS) : `creps`   
-Centre régional des œuvres universitaires et scolaires (CROUS) : `crous`   
-Délégation régionale à la recherche et à la technologie : `drrt`   
-Direction de services départementaux de l'Éducation nationale (DSDEN) : `inspection_academique`   
-École supérieure du professorat et de l’éducation (ESPE) : `espe`   
-Groupement d'établissements publics d'enseignement (GRETA) : `greta`   
-Office national d'information sur les enseignements et les professions (ONISEP) - délégation régionale : `dronisep`   
+* [x] Centre d'information et d’orientation (CIO) : `cio`   
+* [x] Centre de ressources, d'expertise et de performances sportives (CREPS) : `creps`   
+* [x] Centre régional des œuvres universitaires et scolaires (CROUS) : `crous`   
+* [x] Délégation régionale à la recherche et à la technologie : `drrt`   
+* [x] Direction de services départementaux de l'Éducation nationale (DSDEN) : `inspection_academique`   
+* [x] École supérieure du professorat et de l’éducation (ESPE) : `espe`   
+* [x] Groupement d'établissements publics d'enseignement (GRETA) : `greta`   
+* [x] Office national d'information sur les enseignements et les professions (ONISEP) - délégation régionale : `dronisep`   
 * [x] Rectorat : `rectorat`   
-Réseau Canopé - atelier départemental : `canope_atelier`   
-Réseau Canopé - direction territoriale : `canope_dt`   
-Service universitaire d'information et d'orientation (SUIO) : `suio`   
+* [x] Réseau Canopé - atelier départemental : `canope_atelier`   
+* [x] Réseau Canopé - direction territoriale : `canope_dt`   
+* [x] Service universitaire d'information et d'orientation (SUIO) : `suio`   
 
 ### Environnement, logement, transports  
 
@@ -153,25 +153,25 @@ Service universitaire d'information et d'orientation (SUIO) : `suio`
 * [x] Agence de l’environnement et de la maîtrise de l’énergie (ADEME) : `ademe`   
 * [x] Agence départementale d'information sur le logement (ADIL) : `adil`   
 * [x] Agence nationale de l’habitat (ANAH) - réseau local : `anah`   
-Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et l'aménagement (CEREMA) - direction territoriale : `cerema`   
-Centre en route de la navigation aérienne (CRNA) : `cnra`   
-Délégation à la mer et au littoral (DML) : `dml`   
-Direction de la sécurité de l'aviation civile (DSAC) : `dac`   
-Direction départementale des territoires (DDT) : `ddt`   
-Direction des territoires, de l'alimentation et de la mer (DTAM) : `dtam`   
-Direction interdépartementale des routes (DIR) : `did_routes`   
-Direction interrégionale de la mer : `dir_mer`   
-Direction interrégionale de Météo-France : `dir_meteo`   
-Direction régionale de l'alimentation, de l'agriculture et de la forêt (DRAAF) : `draf`   
-Direction régionale de l'environnement, de l'aménagement et du logement (DREAL) : `dreal`   
-Direction régionale de l'environnement, de l'aménagement et du logement (DREAL) - unité territoriale : `dreal_ut`   
-Direction régionale et interdépartementale de l'équipement et de l'aménagement (DRIEA) - Ile-de-France : `driea`   
-Direction régionale et interdépartementale de l'équipement et de l'aménagement (DRIEA) - Ile-de-France - unité territoriale : `driea_ut`    
-Direction régionale et interdépartementale de l'hébergement et du logement (DRIHL) - Île-de-France : `drihl`   
-Direction régionale et interdépartementale de l'hébergement et du logement (DRIHL) - Île-de-France - unité territoriale : `drihl_ut`   
-Office national des forêts (ONF) - direction territoriale : `onf`   
-Société d'aménagement foncier et d'établissement rural (SAFER) : `safer`   
-Voies navigables de France (VNF) : `service_navigation`   
+* [x] Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et l'aménagement (CEREMA) - direction territoriale : `cerema`   
+* [x] Centre en route de la navigation aérienne (CRNA) : `cnra`   
+* [x] Délégation à la mer et au littoral (DML) : `dml`   
+* [x] Direction de la sécurité de l'aviation civile (DSAC) : `dac`   
+* [x] Direction départementale des territoires (DDT) : `ddt`   
+* [x] Direction des territoires, de l'alimentation et de la mer (DTAM) : `dtam`   
+* [x] Direction interdépartementale des routes (DIR) : `did_routes`   
+* [x] Direction interrégionale de la mer : `dir_mer`   
+* [x] Direction interrégionale de Météo-France : `dir_meteo`   
+* [x] Direction régionale de l'alimentation, de l'agriculture et de la forêt (DRAAF) : `draf`   
+* [x] Direction régionale de l'environnement, de l'aménagement et du logement (DREAL) : `dreal`   
+* [x] Direction régionale de l'environnement, de l'aménagement et du logement (DREAL) - unité territoriale : `dreal_ut`   
+* [x] Direction régionale et interdépartementale de l'équipement et de l'aménagement (DRIEA) - Ile-de-France : `driea`   
+* [x] Direction régionale et interdépartementale de l'équipement et de l'aménagement (DRIEA) - Ile-de-France - unité territoriale : `driea_ut`    
+* [x] Direction régionale et interdépartementale de l'hébergement et du logement (DRIHL) - Île-de-France : `drihl`   
+* [x] Direction régionale et interdépartementale de l'hébergement et du logement (DRIHL) - Île-de-France - unité territoriale : `drihl_ut`   
+* [x] Office national des forêts (ONF) - direction territoriale : `onf`   
+* [x] Société d'aménagement foncier et d'établissement rural (SAFER) : `safer`   
+* [x] Voies navigables de France (VNF) : `service_navigation`   
 
 ### Sécurité, défense  
 
